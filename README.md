@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻Front - End developer Intern<br>📚Studying Software Engineering with Artificial Intelligence<br> at SENATI<br>
+💻Front - End developer Intern<br>📚Studying Software Engineering with Artificial Intelligence at SENATI<br>
 
 
 ## 🌐 Socials:
